@@ -35,6 +35,7 @@ Windows用户推荐使用[Dev-C++](https://sourceforge.net/projects/orwelldevcpp
 
 ### 为什么我的程序行为很奇怪？
 请按下表解决：
+
 1.  重新逐字阅读一遍程序，检查是否有打错字、误用中文标点、printf或scanf漏写参数
 2.  scanf的格式串中除了`%d`或`%f`等符号不要放任何其他东西，如逗号、换行符等
 3.  输入数据时用空格或回车分开各个数
